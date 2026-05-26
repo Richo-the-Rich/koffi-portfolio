@@ -102,8 +102,8 @@ export default function AboutPreview() {
                 <div className="text-5xl mb-4">👨‍💻</div>
                 <blockquote className="text-gray-700 dark:text-gray-200 italic text-base leading-relaxed">
                   {t(
-                    '"L\'IA agentique n\'est pas juste de la technologie – c\'est l\'art de donner de l\'autonomie aux machines pour résoudre les problèmes impossibles."',
-                    '"Agentic AI is not just technology – it\'s the art of giving machines the autonomy to solve the impossible."'
+                    "L'IA agentique n'est pas juste de la technologie – c'est l'art de donner de l'autonomie aux machines pour résoudre les problèmes impossibles.",
+                    "Agentic AI is not just technology – it's the art of giving machines the autonomy to solve the impossible."
                   )}
                 </blockquote>
               </div>

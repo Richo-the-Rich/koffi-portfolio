@@ -59,7 +59,7 @@ export default function HeroSection() {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="text-4xl md:text-5xl lg:text-6xl font-bold mb-3 leading-tight"
             >
-              Koffi Ulrich{' '}
+              Koffi{' '}
               <span className="gradient-text">AZOUGO</span>
             </motion.h1>
 
@@ -153,7 +153,7 @@ export default function HeroSection() {
                       <div className="text-7xl font-extrabold bg-gradient-to-br from-blue-600 to-purple-600 bg-clip-text text-transparent">
                         KA
                       </div>
-                      <p className="text-sm font-semibold text-gray-500 dark:text-gray-400 mt-1">Koffi Ulrich</p>
+                      <p className="text-sm font-semibold text-gray-500 dark:text-gray-400 mt-1">Koffi</p>
                     </div>
                   </div>
                 </div>

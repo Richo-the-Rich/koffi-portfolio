@@ -182,7 +182,7 @@ export default function ContactPage() {
                 <div className="mb-6 p-4 bg-green-100 dark:bg-green-900/30 border border-green-300 dark:border-green-700 rounded-xl flex items-center gap-3">
                   <CheckCircleIcon className="w-5 h-5 text-green-600 flex-shrink-0" />
                   <span className="text-green-800 dark:text-green-200 text-sm">
-                    {t('Message envoyé ! Je vous réponds sous 24h. 🚀', 'Message sent! I'll reply within 24h. 🚀')}
+                    {t("Message envoyé ! Je vous réponds sous 24h. 🚀", "Message sent! I'll reply within 24h. 🚀")}
                   </span>
                 </div>
               )}
@@ -348,7 +348,7 @@ export default function ContactPage() {
                 <h3 className="font-bold text-lg mb-2">💡 {t('Consultation gratuite', 'Free consultation')}</h3>
                 <p className="text-gray-600 dark:text-gray-300 mb-4 text-sm">
                   {t(
-                    '30 minutes d'échange pour comprendre vos besoins et proposer une approche personnalisée en IA Agentique ou Full-Stack.',
+                    "30 minutes d'échange pour comprendre vos besoins et proposer une approche personnalisée en IA Agentique ou Full-Stack.",
                     '30 minutes to understand your needs and propose a personalized approach in Agentic AI or Full-Stack.'
                   )}
                 </p>

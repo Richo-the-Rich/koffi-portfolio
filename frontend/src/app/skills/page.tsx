@@ -268,7 +268,7 @@ export default function SkillsPage() {
             </h2>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="/contact" className="bg-white text-blue-600 hover:bg-gray-100 font-semibold py-3 px-8 rounded-xl shadow-lg transform transition-all duration-200 hover:scale-105 inline-flex items-center justify-center">
-                {t('Discuter d'un projet', 'Discuss a project')}
+                {t("Discuter d'un projet", "Discuss a project")}
               </a>
               <a href="/projects" className="border-2 border-white text-white hover:bg-white hover:text-blue-600 font-semibold py-3 px-8 rounded-xl transform transition-all duration-200 hover:scale-105 inline-flex items-center justify-center">
                 {t('Voir mes réalisations', 'View my work')}

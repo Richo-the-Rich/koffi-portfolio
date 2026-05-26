@@ -134,7 +134,7 @@ export default function Footer() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-3">
             <div className="text-gray-400 text-sm">
-              © {year} Koffi Ulrich AZOUGO. {t('Tous droits réservés.', 'All rights reserved.')}
+              © {year} Koffi AZOUGO. {t('Tous droits réservés.', 'All rights reserved.')}
             </div>
             <div className="flex items-center gap-4 text-xs text-gray-500">
               <span>🤖 {t('Ingénieur IA Agentique', 'Agentic AI Engineer')}</span>

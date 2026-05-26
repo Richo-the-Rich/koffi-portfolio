@@ -26,7 +26,7 @@ export default function AboutPage() {
       icon: UserGroupIcon,
       titleFr: 'Collaboration',
       titleEn: 'Collaboration',
-      descFr: 'Lead Backend chez Kirusa, j'ai appris que les meilleures solutions naissent de la synergie entre des équipes techniques pluridisciplinaires.',
+      descFr: "Lead Backend chez Kirusa, j'ai appris que les meilleures solutions naissent de la synergie entre des équipes techniques pluridisciplinaires.",
       descEn: 'As Backend Lead at Kirusa, I learned that the best solutions emerge from cross-functional team synergy.',
     },
     {
@@ -123,7 +123,7 @@ export default function AboutPage() {
                   <div className="w-24 h-24 mx-auto rounded-full bg-gradient-to-br from-blue-600 to-purple-600 flex items-center justify-center text-white text-3xl font-extrabold shadow-lg mb-4">
                     KA
                   </div>
-                  <h3 className="text-xl font-bold">Koffi Ulrich AZOUGO</h3>
+                  <h3 className="text-xl font-bold">Koffi AZOUGO</h3>
                   <p className="text-blue-600 dark:text-blue-400 text-sm font-medium mt-1">
                     {t('Ingénieur Systèmes IA & Agentique', 'AI Systems & Agentic Engineer')}
                   </p>

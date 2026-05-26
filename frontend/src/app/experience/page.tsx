@@ -20,10 +20,10 @@ export default function ExperiencePage() {
       icon: '🤖',
       color: 'bg-blue-600',
       responsibilitiesFr: [
-        'Coordination du développement technique d'AQGPT en partenariat avec PAQS ; architecture système, roadmap et encadrement des développeurs.',
-        'Conception d'architectures multi-agents autonomes et d'assistants conversationnels LLM pour automatiser des processus métier complexes.',
-        'Direction de l'équipe backend pour HappyFIT ; conception du schéma de base de données et développement d'APIs RESTful scalables et sécurisées.',
-        'Entraînement et déploiement de modèles ML sur AWS (EC2, Lambda, S3) pour la scalabilité de l'application.',
+        "Coordination du développement technique d'AQGPT en partenariat avec PAQS ; architecture système, roadmap et encadrement des développeurs.",
+        "Conception d'architectures multi-agents autonomes et d'assistants conversationnels LLM pour automatiser des processus métier complexes.",
+        "Direction de l'équipe backend pour HappyFIT ; conception du schéma de base de données et développement d'APIs RESTful scalables et sécurisées.",
+        "Entraînement et déploiement de modèles ML sur AWS (EC2, Lambda, S3) pour la scalabilité de l'application.",
       ],
       responsibilitiesEn: [
         'Coordinate end-to-end technical development of AQGPT in partnership with PAQS; manage system architecture, technical roadmaps, and developer task alignment.',
@@ -45,9 +45,9 @@ export default function ExperiencePage() {
       icon: '☁️',
       color: 'bg-green-600',
       responsibilitiesFr: [
-        'Architecture d'applications métiers robustes avec Django et Flask.',
+        "Architecture d'applications métiers robustes avec Django et Flask.",
         'Automatisation de workflows critiques sur AWS via architectures Serverless (Lambda) et stockage S3.',
-        'Déploiement et supervision d'architectures microservices conteneurisées avec Docker pour des cycles de production standardisés.',
+        "Déploiement et supervision d'architectures microservices conteneurisées avec Docker pour des cycles de production standardisés.",
       ],
       responsibilitiesEn: [
         'Engineered resilient web backend systems for corporate applications using Django and Flask.',
@@ -159,7 +159,7 @@ export default function ExperiencePage() {
     {
       nameFr: 'AI Engineer – Core Track',
       nameEn: 'AI Engineer – Core Track',
-      issuer: t('LLM Engineering, RAG, QLoRA, Agents', 'LLM Engineering, RAG, QLoRA, Agents'),
+      issuer: t('LLM Engineering, RAG, QLoRA & Agents · Udemy', 'LLM Engineering, RAG, QLoRA & Agents · Udemy'),
     },
     {
       nameFr: 'Supervised Learning',

@@ -22,6 +22,7 @@ export default function Navbar() {
     { name: t('Expérience', 'Experience'), href: '/experience' },
     { name: t('Compétences', 'Skills'), href: '/skills' },
     { name: t('Projets', 'Projects'), href: '/projects' },
+    { name: 'Blog', href: '/blog' },
     { name: t('Contact', 'Contact'), href: '/contact' },
   ]
 
